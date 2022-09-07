@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Using Markdown
+# Communicate Using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
